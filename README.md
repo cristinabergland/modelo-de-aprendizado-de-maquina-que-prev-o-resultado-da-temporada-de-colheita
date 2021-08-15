@@ -1,0 +1,1 @@
+# modelo-de-aprendizado-de-maquina-que-prev-o-resultado-da-temporada-de-colheita
